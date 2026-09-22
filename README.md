@@ -1,4 +1,5 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Hi%2C%20I'm%20Pratap&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=18&descColor=C9C9C9" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=560&lines=Building+full+stack+web+apps;MongoDB+%2F%2F+Express+%2F%2F+React+%2F%2F+Node.js;Clean+code+%3E+clever+code" alt="Typing SVG" /> <br/>
+<div align="center"> <img src="<img width="736" height="496" alt="image" src="https://github.com/user-attachments/assets/e60a14d8-0fc4-48bb-b273-939021ecc591" />
+" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=560&lines=Building+full+stack+web+apps;MongoDB+%2F%2F+Express+%2F%2F+React+%2F%2F+Node.js;Clean+code+%3E+clever+code" alt="Typing SVG" /> <br/>
 
 LinkedIn Portfolio LeetCode Email Twitter
 
