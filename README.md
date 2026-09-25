@@ -1,52 +1,88 @@
-<div align="center"> <img src="<img width="736" height="496" alt="image" src="https://github.com/user-attachments/assets/e60a14d8-0fc4-48bb-b273-939021ecc591" />
-" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=560&lines=Building+full+stack+web+apps;MongoDB+%2F%2F+Express+%2F%2F+React+%2F%2F+Node.js;Clean+code+%3E+clever+code" alt="Typing SVG" /> <br/>
+<div align="center">
 
-LinkedIn Portfolio LeetCode Email Twitter
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Alex+Rivera;Backend-leaning+full-stack+engineer;I+build+small%2C+sharp+tools." alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=heypratap&label=PROFILE+VIEWS&color=000000&style=for-the-badge&labelColor=000000"/> </div> <br/>
-📌 About Me
-🚀 Full Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js)
-🎓 Studying [your college / degree]
-💻 Currently building [current project name]
-🌱 Learning [topic you're learning now — e.g. system design, TypeScript]
-🎯 Open to Full Stack / MERN Stack Developer roles
-⚡ Fun fact: [something short and personal]
 <br/>
-🛠️ Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&labelColor=000000&color=1a1a1a"/> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&labelColor=000000&color=1a1a1a"/> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&labelColor=000000&color=1a1a1a"/> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&labelColor=000000&color=1a1a1a"/> <br/> <img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&labelColor=000000&color=1a1a1a"/> <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&labelColor=000000&color=1a1a1a"/> <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&labelColor=000000&color=1a1a1a"/> <img src="https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&labelColor=000000&color=1a1a1a"/> <br/> <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&labelColor=000000&color=1a1a1a"/> <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&labelColor=000000&color=1a1a1a"/> <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&labelColor=000000&color=1a1a1a"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&labelColor=000000&color=1a1a1a"/> </p> <br/>
-📊 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=heypratap&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=C9C9C9&icon_color=FFFFFF&include_all_commits=true&count_private=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heypratap&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=C9C9C9" height="165"/>
+
+![Location](https://img.shields.io/badge/Location-Lisbon%2C%20Portugal-000000?style=for-the-badge&logoColor=white)
+![Website](https://img.shields.io/badge/Website-alexrivera.dev-000000?style=for-the-badge&logoColor=white)
+![Since](https://img.shields.io/badge/On%20GitHub%20since-2019-000000?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+### About
+
+- Deep in distributed systems and CLI ergonomics right now
+- I write boring, reliable software on purpose
+- Ask me about job queues, sharded storage, or terminal tooling
+
+<br/>
+
+### Stack
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=white)
+
+</div>
+
+<br/>
+
+### GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=heypratap&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heypratap&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heypratap&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+
+</div>
+
+<br/>
+
+### Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=heypratap&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+### Contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/heypratap/heypratap/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<sub>This one needs a one-time setup — see the note below.</sub>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heypratap&background=0D0D0D&border=2B2B2B&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=808080"/>
+### Elsewhere
 
-<br/><br/>
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=heypratap&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8"/> </div> <br/>
-📈 Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=heypratap&theme=github-compact&bg_color=0D0D0D&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=2B2B2B&hide_border=true" width="90%"/> </div> <br/>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/heypratap/heypratap/output/github-contribution-grid-snake-dark.svg"/> </div> <br/>
-📌 Featured Projects
-<table> <tr> <td width="50%">
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heypratap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heypratap)
 
-Project 1 Name Full stack MERN app with JWT auth, REST APIs, and MongoDB schema design. Deployed on Vercel/Render. React Node.js Express MongoDB
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
-</td> <td width="50%">
+<br/>
 
-Project 2 Name Real-time feature app built with Socket.io and a Node.js backend. Includes live data sync. React Socket.io Node.js
-
-</td> </tr> <tr> <td width="50%">
-
-Project 3 Name Third-party API integration project with async data handling and caching. React REST API Axios
-
-</td> <td width="50%">
-
-Project 4 Name E-commerce style app with cart, checkout flow, and role-based admin panel. React Express PostgreSQL Stripe
-
-</td> </tr> </table> <br/> <div align="center">
-
-If you like my work, consider giving my repos a ⭐
+![Profile views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
