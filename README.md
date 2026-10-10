@@ -16,18 +16,23 @@
   </tr>
   <tr>
     <td width="72%">
-      <b>Software Engineer in the making</b> · Delhi, India
+      <b>Software Engineer in the making</b> </br>
+  Delhi, India
       <br><br>
-      I'm a learner documenting my journey into software engineering. Every day I share what I learn, what confuses me, and what I build. Follow along on X: <a href="https://x.com/heypratapyadav"><b>@heypratapyadav</b></a>
+      I'm a learner documenting my journey into software engineering. Every day I share what I learn, what confuses me, and what I build.
+
+</b> Follow along on X: <a href="https://x.com/heypratapyadav"><b>@heypratapyadav</b></a>
       <br><br>
-      Currently learning <b>DSA &amp; Development</b>, with a 90-day goal to <b>land a job as a Software Engineer</b>.
+      Currently learning <b>DSA &amp; Development</b>, </br> 
+      with a 90-day goal to <b>land a job as a Software Engineer</b>.
       <br><br>
       <b>Languages</b> — Java, JavaScript, SQL<br>
       <b>Frontend</b> — React, Redux, Tailwind CSS<br>
-      <b>Backend</b> — Node.js, FastAPI, MongoDB, PostgreSQL, Redis<br>
+      <b>Backend</b> — Node.js, FastAPI, MongoDB, PostgreSQL<br>
       <b>Tools</b> — Git, GitHub
       <br><br>
-      <b>Progress:</b> Day 0 / 90 &nbsp;·&nbsp; <b>Open to:</b> collaboration, opportunities, open source
+      <b>Progress:</b> Day 0 / 90 &nbsp; &nbsp;</br>
+      <b>Open to:</b> collaboration, opportunities, open source
     </td>
     <td align="center" width="28%">
       <img src="assets/planet.svg" alt="planet" width="150">
