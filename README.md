@@ -34,10 +34,4 @@
 
 <img src="assets/divider.svg" alt="divider" width="100%" height="6">
 
-### Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/9be9a8/heypratap" alt="GitHub contributions" width="100%">
-</p>
-
-<img src="assets/divider.svg" alt="divider" width="100%" height="6">
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heypratap/heypratap/output/mono-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heypratap/heypratap/output/mono-light.svg"> <img alt="GitHub contributions" src="https://raw.githubusercontent.com/heypratap/heypratap/output/mono-dark.svg" width="100%"> </picture> </p> <img src="assets/divider.svg" alt="divider" width="100%" height="6">
