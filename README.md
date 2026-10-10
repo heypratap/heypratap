@@ -1,47 +1,43 @@
-<h1 align="center">Pratap Yadav</h1>
-
 <p align="center">
-  Software Engineer · Delhi, India
+  <img src="assets/banner.svg" alt="banner" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/heypratap">LinkedIn</a> ·
-  <a href="https://leetcode.com/heypratap">LeetCode</a> ·
-  <a href="https://x.com/heypratapyadav">Twitter / X</a> ·
-  <a href="mailto:heypratapyadav@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/heypratap"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/heypratap"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://x.com/heypratapyadav"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:heypratapyadav@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="#"><img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"></a>
 </p>
 
----
+<table width="100%">
+  <tr>
+    <td colspan="2"><h3>Hey there! I'm Pratap 👋</h3></td>
+  </tr>
+  <tr>
+    <td width="72%">
+      <b>Aspiring Software Engineer</b> based in Delhi, India.
+      <br><br>
+      I'm learning in public and documenting the journey on X: what I learn, what confuses me, and what I build.
+      <br><br>
+      Currently focused on <b>DSA</b> and <b>full-stack development</b>, with a 90-day goal to land a job as a Software Engineer.
+      <br><br>
+      <b>Stack:</b> Java, JavaScript, SQL, React, Redux, Tailwind CSS, Node.js, FastAPI, MongoDB, PostgreSQL, Redis
+      <br><br>
+      <b>Progress:</b> Day 0 / 90 &nbsp;·&nbsp; <b>Open to:</b> collaboration, opportunities, open source
+    </td>
+    <td align="center" width="28%">
+      <img src="assets/planet.svg" alt="planet" width="150">
+    </td>
+  </tr>
+</table>
 
-### About
+<img src="assets/divider.svg" alt="divider" width="100%" height="6">
 
-I'm a learner on the path to becoming a **Software Engineer**.
-Every day I share what I learn, what confuses me, and what I build.
-
-Follow along on X: [@heypratapyadav](https://x.com/heypratapyadav)
-
-- Currently learning: **DSA & Development**
-- Open to: **collaboration / opportunities / open source**
-
----
-
-### Current Focus
-
-- Learning: **DSA & Development**
-- Goal by Day 90: **Land a job as a Software Engineer**
-- Progress: **Day 0 / 90**
-
----
-
-### Stack
-
-**Languages** — Java, JavaScript, SQL
-**Frontend** — React, Redux, Tailwind CSS
-**Backend** — Node.js, FastAPI, MongoDB, PostgreSQL, Redis
-**Tools** — Git, GitHub
-
----
+### Contributions
 
 <p align="center">
-  <sub>Thanks for stopping by.</sub>
+  <img src="https://ghchart.rshah.org/9be9a8/heypratap" alt="GitHub contributions" width="100%">
 </p>
+
+<img src="assets/divider.svg" alt="divider" width="100%" height="6">
