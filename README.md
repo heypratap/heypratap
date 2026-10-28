@@ -30,7 +30,7 @@
       <b>Backend</b> — Node.js, FastAPI, MongoDB, PostgreSQL<br>
       <b>Tools</b> — Git, GitHub
       <br><br>
-      <b>Progress:</b> Day 0 / 90 &nbsp; &nbsp;</br>
+      <b>Progress:</b> Day 20 / 90 &nbsp; &nbsp;</br>
       <b>Open to:</b> collaboration, opportunities, open source
     </td>
     <td align="center" width="28%">
